@@ -4,8 +4,8 @@ description : Insert the chapter description here
 attachments :
   slides_link : https://s3.amazonaws.com/assets.datacamp.com/course/teach/slides_example.pdf
 
---- type:VideoExercise lang:r xp:50 skills:1 key:766c8f5275bfd0899d96e7ddb65b10b9ed3d2aab
-## Analyze movie ratings
+--- type:VideoExercise lang:r xp:50 skills:1 key:766c8f525bfd0899d96e7ddb65b10b9ed3d2aab
+## Analyze movie rating
 
 *** =video_link
 //player.vimeo.com/video/154783078
